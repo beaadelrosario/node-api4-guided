@@ -2,9 +2,10 @@
     "name": "node-api4-guided",
     "version": "1.0.0",
     "description": "Guided project for **Node API** module 4.",
-    "main": "index.js",
+    "main": " node index.js",
     "scripts": {
-        "server": "nodemon index.js"
+        "server": "nodemon index.js",
+        "start": "index.js"
     },
     "repository": {
         "type": "git",

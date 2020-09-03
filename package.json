@@ -4,8 +4,8 @@
     "description": "Guided project for **Node API** module 4.",
     "main": " node index.js",
     "scripts": {
-        "server": "nodemon index.js",
-        "start": "index.js"
+        "start": "node index.js",
+        "server": "nodemon index.js"
     },
     "repository": {
         "type": "git",
